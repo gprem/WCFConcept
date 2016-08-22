@@ -27,6 +27,28 @@
             <returns>Configuration object allowing method chaining.</returns>
             <remarks>The file will be written using the UTF-8 character set.</remarks>
         </member>
+        <member name="M:Serilog.FileLoggerConfigurationExtensions.File(Serilog.Configuration.LoggerSinkConfiguration,Serilog.Formatting.ITextFormatter,System.String,Serilog.Events.LogEventLevel,System.Nullable{System.Int64},Serilog.Core.LoggingLevelSwitch,System.Boolean)">
+            <summary>
+            Write log events to the specified file.
+            </summary>
+            <param name="sinkConfiguration">Logger sink configuration.</param>
+            <param name="formatter">A formatter, such as <see cref="T:Serilog.Formatting.Json.JsonFormatter"/>, to convert the log events into
+            text for the file. If control of regular text formatting is required, use the other
+            overload of <see cref="M:Serilog.FileLoggerConfigurationExtensions.File(Serilog.Configuration.LoggerSinkConfiguration,System.String,Serilog.Events.LogEventLevel,System.String,System.IFormatProvider,System.Nullable{System.Int64},Serilog.Core.LoggingLevelSwitch,System.Boolean)"/>
+            and specify the outputTemplate parameter instead.
+            </param>
+            <param name="path">Path to the file.</param>
+            <param name="restrictedToMinimumLevel">The minimum level for
+            events passed through the sink. Ignored when <paramref name="levelSwitch"/> is specified.</param>
+            <param name="levelSwitch">A switch allowing the pass-through minimum level
+            to be changed at runtime.</param>
+            <param name="fileSizeLimitBytes">The maximum size, in bytes, to which a log file will be allowed to grow.
+            For unrestricted growth, pass null. The default is 1 GB.</param>
+            <param name="buffered">Indicates if flushing to the output file can be buffered or not. The default
+            is false.</param>
+            <returns>Configuration object allowing method chaining.</returns>
+            <remarks>The file will be written using the UTF-8 character set.</remarks>
+        </member>
         <member name="T:Serilog.Sinks.File.FileSink">
             <summary>
             Write log events to a disk file.
