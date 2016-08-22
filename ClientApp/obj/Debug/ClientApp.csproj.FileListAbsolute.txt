@@ -1,0 +1,17 @@
+C:\SourceCode\WCFConcept\ClientApp\bin\Debug\ClientApp.exe.config
+C:\SourceCode\WCFConcept\ClientApp\bin\Debug\ClientApp.exe
+C:\SourceCode\WCFConcept\ClientApp\bin\Debug\ClientApp.pdb
+C:\SourceCode\WCFConcept\ClientApp\bin\Debug\ProLINK.Data.dll
+C:\SourceCode\WCFConcept\ClientApp\bin\Debug\Proplanner.dll
+C:\SourceCode\WCFConcept\ClientApp\bin\Debug\Proplanner.LineBalancing.Data.dll
+C:\SourceCode\WCFConcept\ClientApp\bin\Debug\Proplanner.WCF.ClientProxy.dll
+C:\SourceCode\WCFConcept\ClientApp\bin\Debug\ProLINK.Data.pdb
+C:\SourceCode\WCFConcept\ClientApp\bin\Debug\Proplanner.LineBalancing.Data.pdb
+C:\SourceCode\WCFConcept\ClientApp\bin\Debug\Proplanner.WCF.ClientProxy.pdb
+C:\SourceCode\WCFConcept\ClientApp\bin\Debug\Proplanner.pdb
+C:\SourceCode\WCFConcept\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+C:\SourceCode\WCFConcept\ClientApp\obj\Debug\ClientApp.Form1.resources
+C:\SourceCode\WCFConcept\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+C:\SourceCode\WCFConcept\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.Cache
+C:\SourceCode\WCFConcept\ClientApp\obj\Debug\ClientApp.exe
+C:\SourceCode\WCFConcept\ClientApp\obj\Debug\ClientApp.pdb

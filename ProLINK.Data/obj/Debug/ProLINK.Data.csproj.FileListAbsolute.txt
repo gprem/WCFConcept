@@ -1,0 +1,7 @@
+C:\SourceCode\WCFConcept\ProLINK.Data\bin\Debug\ProLINK.Data.dll
+C:\SourceCode\WCFConcept\ProLINK.Data\bin\Debug\ProLINK.Data.pdb
+C:\SourceCode\WCFConcept\ProLINK.Data\bin\Debug\Proplanner.dll
+C:\SourceCode\WCFConcept\ProLINK.Data\bin\Debug\Proplanner.pdb
+C:\SourceCode\WCFConcept\ProLINK.Data\obj\Debug\ProLINK.Data.csprojResolveAssemblyReference.cache
+C:\SourceCode\WCFConcept\ProLINK.Data\obj\Debug\ProLINK.Data.dll
+C:\SourceCode\WCFConcept\ProLINK.Data\obj\Debug\ProLINK.Data.pdb

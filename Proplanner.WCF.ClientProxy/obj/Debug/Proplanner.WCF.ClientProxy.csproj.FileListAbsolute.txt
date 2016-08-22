@@ -1,0 +1,9 @@
+C:\SourceCode\WCFConcept\Proplanner.WCF.ClientProxy\bin\Debug\Proplanner.WCF.ClientProxy.dll
+C:\SourceCode\WCFConcept\Proplanner.WCF.ClientProxy\bin\Debug\Proplanner.WCF.ClientProxy.pdb
+C:\SourceCode\WCFConcept\Proplanner.WCF.ClientProxy\bin\Debug\ProLINK.Data.dll
+C:\SourceCode\WCFConcept\Proplanner.WCF.ClientProxy\bin\Debug\Proplanner.dll
+C:\SourceCode\WCFConcept\Proplanner.WCF.ClientProxy\bin\Debug\ProLINK.Data.pdb
+C:\SourceCode\WCFConcept\Proplanner.WCF.ClientProxy\bin\Debug\Proplanner.pdb
+C:\SourceCode\WCFConcept\Proplanner.WCF.ClientProxy\obj\Debug\Proplanner.WCF.ClientProxy.csprojResolveAssemblyReference.cache
+C:\SourceCode\WCFConcept\Proplanner.WCF.ClientProxy\obj\Debug\Proplanner.WCF.ClientProxy.dll
+C:\SourceCode\WCFConcept\Proplanner.WCF.ClientProxy\obj\Debug\Proplanner.WCF.ClientProxy.pdb

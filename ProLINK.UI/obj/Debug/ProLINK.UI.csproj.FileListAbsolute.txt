@@ -1,0 +1,5 @@
+C:\SourceCode\WCFConcept\ProLINK.UI\bin\Debug\ProLINK.UI.dll
+C:\SourceCode\WCFConcept\ProLINK.UI\bin\Debug\ProLINK.UI.pdb
+C:\SourceCode\WCFConcept\ProLINK.UI\obj\Debug\ProLINK.UI.dll
+C:\SourceCode\WCFConcept\ProLINK.UI\obj\Debug\ProLINK.UI.pdb
+C:\SourceCode\WCFConcept\ProLINK.UI\obj\Debug\ProLINK.UI.csprojResolveAssemblyReference.cache

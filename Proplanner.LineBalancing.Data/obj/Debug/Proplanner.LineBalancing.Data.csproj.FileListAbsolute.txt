@@ -1,0 +1,7 @@
+C:\SourceCode\WCFConcept\Proplanner.LineBalancing.Data\bin\Debug\Proplanner.LineBalancing.Data.dll
+C:\SourceCode\WCFConcept\Proplanner.LineBalancing.Data\bin\Debug\Proplanner.LineBalancing.Data.pdb
+C:\SourceCode\WCFConcept\Proplanner.LineBalancing.Data\bin\Debug\Proplanner.dll
+C:\SourceCode\WCFConcept\Proplanner.LineBalancing.Data\bin\Debug\Proplanner.pdb
+C:\SourceCode\WCFConcept\Proplanner.LineBalancing.Data\obj\Debug\Proplanner.LineBalancing.Data.csprojResolveAssemblyReference.cache
+C:\SourceCode\WCFConcept\Proplanner.LineBalancing.Data\obj\Debug\Proplanner.LineBalancing.Data.dll
+C:\SourceCode\WCFConcept\Proplanner.LineBalancing.Data\obj\Debug\Proplanner.LineBalancing.Data.pdb

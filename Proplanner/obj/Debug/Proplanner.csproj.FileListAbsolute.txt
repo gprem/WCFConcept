@@ -1,0 +1,5 @@
+C:\SourceCode\WCFConcept\Proplanner\bin\Debug\Proplanner.dll
+C:\SourceCode\WCFConcept\Proplanner\bin\Debug\Proplanner.pdb
+C:\SourceCode\WCFConcept\Proplanner\obj\Debug\Proplanner.dll
+C:\SourceCode\WCFConcept\Proplanner\obj\Debug\Proplanner.pdb
+C:\SourceCode\WCFConcept\Proplanner\obj\Debug\Proplanner.csprojResolveAssemblyReference.cache
